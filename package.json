@@ -2,7 +2,7 @@
   "name": "chat_prog",
   "version": "1.0.0",
   "description": "chatBota eng",
-  "main": " chat.js",
+  "main": " app.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   },
